@@ -150,10 +150,9 @@ The rise time of step 1 is left out because the value could not be verified.
 
 ![Settling time and overshoot of the nine steps](docs/pi_step_results.png)
 
-<!-- [ADD and uncomment: plots exported from your own files]
-![ARX model fit on RBS data](docs/arx_fit.png)
-![Step comparison: real vs ARX](docs/step_comparison.png)
--->
+[ARX model fit on RBS data](docs/arx_fit.png)
+[Step comparison: real vs ARX](docs/step_comparison.png)
+
 
 ## Using the HMI
 
