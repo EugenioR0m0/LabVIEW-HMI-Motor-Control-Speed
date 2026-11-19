@@ -4,8 +4,8 @@ Individual final project of the Digital Control Lab (6th semester) at Universida
 
 Speed control of a DC motor with encoder. A LabVIEW HMI was used to run the experiments and control the motor, and MATLAB was used to identify a discrete model of the motor from an RBS test. A PI controller was then tuned with Ziegler–Nichols and fine-tuned on the real motor.
 
-<!-- [ADD: screenshot of the HMI front panel, then uncomment] -->
-<!-- ![HMI front panel](docs/hmi_front_panel.png) -->
+
+![HMI front panel](docs/hmi_front_panel.png)
 
 ## Results at a glance
 
