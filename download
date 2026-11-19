@@ -1,0 +1,19 @@
+# LabVIEW
+*.aliases
+*.lvlps
+Builds/
+
+# MATLAB / Simulink
+*.asv
+*.autosave
+*.slxc
+slprj/
+*.mexw64
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Private files (do not publish)
+private/
